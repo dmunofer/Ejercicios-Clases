@@ -8,4 +8,6 @@ class Logger():
 
         cadena+= '/n --End log:'+ '5 log(s)--'
 
-
+class Test():
+    def __init__(self,test):
+        self.test = test
