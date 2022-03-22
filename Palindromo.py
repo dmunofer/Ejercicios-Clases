@@ -22,3 +22,5 @@ class Palindromo():
     def test(self):
         booleano = esPalindromo(self.palindromo)
         return booleano
+
+# Pregunta adicional: Porque primero se ejecuta el test(), por lo que sale primero True, y luego el print de RADAR
